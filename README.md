@@ -54,7 +54,7 @@ Os scripts abaixo executam a compilação do projeto.
 ---
 ## Links: 🌐
 ***Projeto online GitHub Pages:***<br>
-[<ins>Link do projeto</ins>](https://caioliveira277.github.io/graphicreport)
+[<ins>Link do projeto</ins>](https://caioliveira277.github.io/graphic-report/)
 
 ***Documentação Material IU:***<br>
 [<ins>Material UI ReactJS</ins>](https://material-ui.com/pt/getting-started/templates/)
